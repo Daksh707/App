@@ -18,7 +18,7 @@ export default function Header() {
               </div>
             </div>
             <div>
-              <h1 className="font-pacifico text-xl text-blue-600 font-bold">Kansal Electric</h1>
+              <h1 className="font-pacifico text-xl text-blue-600 font-bold">Kansal Electrical</h1>
               <p className="text-xs text-gray-600 font-medium">Your Trusted Electrical Partner</p>
             </div>
           </div>
