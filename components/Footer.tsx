@@ -16,7 +16,7 @@ export default function Footer() {
               <i className="ri-lightning-line text-white text-xs"></i>
             </div>
           </div>
-          <h2 className="font-pacifico text-xl text-white font-bold">Kansal Electric</h2>
+          <h2 className="font-pacifico text-xl text-white font-bold">Kansal Electrical</h2>
         </div>
         <p className="text-sm text-gray-300">Your Trusted Electrical Partner</p>
       </div>
