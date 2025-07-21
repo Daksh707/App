@@ -24,7 +24,8 @@ export default function ProductCategories() {
       brand: 'RR Kabel',
       description: 'High-quality electrical wires and cables',
       image: 'https://readdy.ai/api/search-image?query=icon%2C%20Realistic%20electrical%20wire%20coils%2C%20copper%20wires%20and%20cables%2C%20high-detail%203D%20rendering%2C%20prominent%20main%20subjects%2C%20clear%20and%20sharp%2C%20the%20icon%20should%20take%20up%2070%25%20of%20the%20frame%2C%20isolated%20on%20white%20background%2C%20centered%20composition%2C%20soft%20lighting%2C%20subtle%20shadows%2C%20product%20photography%20style&width=100&height=100&seq=rr1&orientation=squarish',
-      features: ['Fire Resistant', 'ISI Certified', 'Copper Conductor', 'Multiple Sizes Available']
+      features: ['Fire Resistant', 'ISI Certified', 'Copper Conductor', 'Multiple Sizes Available'],
+      price: 'Starting from ₹45/meter'
     },
     {
       id: '2',
@@ -32,7 +33,8 @@ export default function ProductCategories() {
       brand: 'Wipro',
       description: 'Energy-efficient LED lighting solutions',
       image: 'https://readdy.ai/api/search-image?query=icon%2C%203D%20cartoon%20LED%20bulb%2C%20modern%20energy%20efficient%20lighting%2C%20vibrant%20colors%20with%20soft%20gradients%2C%20minimalist%20design%2C%20smooth%20rounded%20shapes%2C%20the%20icon%20should%20take%20up%2070%25%20of%20the%20frame%2C%20isolated%20on%20white%20background%2C%20centered%20composition%2C%20playful%20and%20friendly%20aesthetic%2C%20high%20detail%20quality&width=100&height=100&seq=wipro1&orientation=squarish',
-      features: ['Energy Efficient', 'Long Lasting', 'Multiple Wattage', 'Warm & Cool White']
+      features: ['Energy Efficient', 'Long Lasting', 'Multiple Wattage', 'Warm & Cool White'],
+      price: 'Starting from ₹120/piece'
     },
     {
       id: '3',
@@ -40,7 +42,8 @@ export default function ProductCategories() {
       brand: 'Schneider Electric',
       description: 'Premium switches and accessories',
       image: 'https://readdy.ai/api/search-image?query=icon%2C%20Realistic%20electrical%20switch%2C%20modern%20white%20electrical%20switch%20and%20socket%2C%20high-detail%203D%20rendering%2C%20prominent%20main%20subjects%2C%20clear%20and%20sharp%2C%20the%20icon%20should%20take%20up%2070%25%20of%20the%20frame%2C%20isolated%20on%20white%20background%2C%20centered%20composition%2C%20soft%20lighting%2C%20product%20photography%20style&width=100&height=100&seq=schneider1&orientation=squarish',
-      features: ['Modular Design', 'Premium Quality', 'Multiple Colors', 'Easy Installation']
+      features: ['Modular Design', 'Premium Quality', 'Multiple Colors', 'Easy Installation'],
+      price: 'Starting from ₹85/piece'
     },
     {
       id: '4',
@@ -48,7 +51,8 @@ export default function ProductCategories() {
       brand: 'Orient',
       description: 'High-performance ceiling fans',
       image: 'https://readdy.ai/api/search-image?query=icon%2C%203D%20cartoon%20ceiling%20fan%2C%20modern%20white%20ceiling%20fan%20with%20blades%2C%20vibrant%20colors%20with%20soft%20gradients%2C%20minimalist%20design%2C%20smooth%20rounded%20shapes%2C%20the%20icon%20should%20take%20up%2070%25%20of%20the%20frame%2C%20isolated%20on%20white%20background%2C%20centered%20composition%2C%20high%20detail%20quality&width=100&height=100&seq=orient1&orientation=squarish',
-      features: ['Energy Efficient', 'Silent Operation', 'Multiple Speeds', '2-5 Year Warranty']
+      features: ['Energy Efficient', 'Silent Operation', 'Multiple Speeds', '2 Year Warranty'],
+      price: 'Starting from ₹2,500/piece'
     },
     {
       id: '5',
@@ -56,7 +60,8 @@ export default function ProductCategories() {
       brand: 'Multiple Brands',
       description: 'Safety circuit breakers and protection',
       image: 'https://readdy.ai/api/search-image?query=icon%2C%20Realistic%20MCB%20circuit%20breaker%2C%20electrical%20safety%20device%2C%20white%20plastic%20housing%2C%20high-detail%203D%20rendering%2C%20prominent%20main%20subjects%2C%20clear%20and%20sharp%2C%20the%20icon%20should%20take%20up%2070%25%20of%20the%20frame%2C%20isolated%20on%20white%20background%2C%20centered%20composition%2C%20soft%20lighting%2C%20product%20photography%20style&width=100&height=100&seq=mcb1&orientation=squarish',
-      features: ['Overload Protection', 'Short Circuit Protection', 'Multiple Ratings', 'ISI Certified']
+      features: ['Overload Protection', 'Short Circuit Protection', 'Multiple Ratings', 'ISI Certified'],
+      price: 'Starting from ₹150/piece'
     },
     {
       id: '6',
@@ -64,7 +69,8 @@ export default function ProductCategories() {
       brand: 'Multiple Brands',
       description: 'Outdoor and indoor flood lighting',
       image: 'https://readdy.ai/api/search-image?query=icon%2C%203D%20cartoon%20LED%20floodlight%2C%20modern%20outdoor%20lighting%20fixture%2C%20vibrant%20colors%20with%20soft%20gradients%2C%20minimalist%20design%2C%20smooth%20rounded%20shapes%2C%20the%20icon%20should%20take%20up%2070%25%20of%20the%20frame%2C%20isolated%20on%20white%20background%2C%20centered%20composition%2C%20high%20detail%20quality&width=100&height=100&seq=flood1&orientation=squarish',
-      features: ['Weatherproof', 'High Brightness', 'Energy Saving', 'Multiple Wattage']
+      features: ['Weatherproof', 'High Brightness', 'Energy Saving', 'Multiple Wattage'],
+      price: 'Starting from ₹800/piece'
     },
     {
       id: '7',
@@ -72,7 +78,8 @@ export default function ProductCategories() {
       brand: 'Multiple Brands',
       description: 'Room heaters and water heaters',
       image: 'https://readdy.ai/api/search-image?query=icon%2C%20Realistic%20electric%20heater%2C%20modern%20room%20heater%20appliance%2C%20white%20and%20black%20design%2C%20high-detail%203D%20rendering%2C%20prominent%20main%20subjects%2C%20clear%20and%20sharp%2C%20the%20icon%20should%20take%20up%2070%25%20of%20the%20frame%2C%20isolated%20on%20white%20background%2C%20centered%20composition%2C%20soft%20lighting%2C%20product%20photography%20style&width=100&height=100&seq=heater1&orientation=squarish',
-      features: ['Instant Heating', 'Energy Efficient', 'Safety Features', 'Portable Design']
+      features: ['Instant Heating', 'Energy Efficient', 'Safety Features', 'Portable Design'],
+      price: 'Starting from ₹1,200/piece'
     },
     {
       id: '8',
@@ -80,7 +87,8 @@ export default function ProductCategories() {
       brand: 'Multiple Brands',
       description: 'Decorative hanging lights and chandeliers',
       image: 'https://readdy.ai/api/search-image?query=icon%2C%203D%20cartoon%20hanging%20lamp%2C%20modern%20pendant%20light%20fixture%2C%20elegant%20design%2C%20vibrant%20colors%20with%20soft%20gradients%2C%20minimalist%20design%2C%20smooth%20rounded%20shapes%2C%20the%20icon%20should%20take%20up%2070%25%20of%20the%20frame%2C%20isolated%20on%20white%20background%2C%20centered%20composition%2C%20high%20detail%20quality&width=100&height=100&seq=lamp1&orientation=squarish',
-      features: ['Designer Collection', 'Multiple Styles', 'LED Compatible', 'Easy Installation']
+      features: ['Designer Collection', 'Multiple Styles', 'LED Compatible', 'Easy Installation'],
+      price: 'Starting from ₹600/piece'
     },
     {
       id: '9',
@@ -88,7 +96,8 @@ export default function ProductCategories() {
       brand: 'Multiple Brands',
       description: 'Outdoor gate and security lighting',
       image: 'https://readdy.ai/api/search-image?query=icon%2C%20Realistic%20gate%20light%2C%20outdoor%20security%20lighting%20fixture%2C%20modern%20design%2C%20high-detail%203D%20rendering%2C%20prominent%20main%20subjects%2C%20clear%20and%20sharp%2C%20the%20icon%20should%20take%20up%2070%25%20of%20the%20frame%2C%20isolated%20on%20white%20background%2C%20centered%20composition%2C%20soft%20lighting%2C%20product%20photography%20style&width=100&height=100&seq=gate1&orientation=squarish',
-      features: ['Motion Sensor', 'Weatherproof', 'Solar Option', 'Bright LED']
+      features: ['Motion Sensor', 'Weatherproof', 'Solar Option', 'Bright LED'],
+      price: 'Starting from ₹450/piece'
     },
     {
       id: '10',
@@ -96,7 +105,8 @@ export default function ProductCategories() {
       brand: 'Multiple Brands',
       description: 'Premium decorative chandeliers',
       image: 'https://readdy.ai/api/search-image?query=icon%2C%203D%20cartoon%20chandelier%2C%20elegant%20crystal%20chandelier%2C%20luxury%20lighting%20fixture%2C%20vibrant%20colors%20with%20soft%20gradients%2C%20minimalist%20design%2C%20smooth%20rounded%20shapes%2C%20the%20icon%20should%20take%20up%2070%25%20of%20the%20frame%2C%20isolated%20on%20white%20background%2C%20centered%20composition%2C%20high%20detail%20quality&width=100&height=100&seq=chandelier1&orientation=squarish',
-      features: ['Crystal Design', 'Multiple Sizes', 'LED Compatible', 'Premium Quality']
+      features: ['Crystal Design', 'Multiple Sizes', 'LED Compatible', 'Premium Quality'],
+      price: 'Starting from ₹3,500/piece'
     }
   ];
 
