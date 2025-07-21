@@ -21,7 +21,7 @@ export default function Footer() {
         <p className="text-sm text-gray-300">Your Trusted Electrical Partner</p>
       </div>
       
-      <div className="grid grid-cols-3 gap-4 mb-6">
+{/*       <div className="grid grid-cols-3 gap-4 mb-6">
         <Link href="/" className="text-center py-3 px-2 rounded-lg bg-gray-800/50 hover:bg-gray-700/50 transition-colors">
           <i className="ri-home-line text-lg block mb-1"></i>
           <span className="text-xs">Home</span>
@@ -34,7 +34,7 @@ export default function Footer() {
           <i className="ri-phone-line text-lg block mb-1"></i>
           <span className="text-xs">Contact</span>
         </Link>
-      </div>
+      </div> */}
       
       <div className="flex justify-center mb-6">
         <a 
@@ -49,7 +49,7 @@ export default function Footer() {
       
       <div className="text-center">
         <p className="text-xs text-gray-400">
-          © 2024 Kansal Electric. All rights reserved.
+          © Kansal Electric. All rights reserved.
         </p>
       </div>
     </footer>
