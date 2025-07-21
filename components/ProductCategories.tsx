@@ -48,7 +48,7 @@ export default function ProductCategories() {
       brand: 'Orient',
       description: 'High-performance ceiling fans',
       image: 'https://readdy.ai/api/search-image?query=icon%2C%203D%20cartoon%20ceiling%20fan%2C%20modern%20white%20ceiling%20fan%20with%20blades%2C%20vibrant%20colors%20with%20soft%20gradients%2C%20minimalist%20design%2C%20smooth%20rounded%20shapes%2C%20the%20icon%20should%20take%20up%2070%25%20of%20the%20frame%2C%20isolated%20on%20white%20background%2C%20centered%20composition%2C%20high%20detail%20quality&width=100&height=100&seq=orient1&orientation=squarish',
-      features: ['Energy Efficient', 'Silent Operation', 'Multiple Speeds', '2 Year Warranty']
+      features: ['Energy Efficient', 'Silent Operation', 'Multiple Speeds', '2-5 Year Warranty']
     },
     {
       id: '5',
