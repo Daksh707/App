@@ -49,7 +49,7 @@ export default function Footer() {
       
       <div className="text-center">
         <p className="text-xs text-gray-400">
-          © Kansal Electric. All rights reserved.
+          © Kansal Electrical. All rights reserved.
         </p>
       </div>
     </footer>
